@@ -3,7 +3,7 @@
 - 진행 기간: 7월 23일 ~ 7월 26일
 - 사용 언어: `Python`
 - **프로젝트 발표 영상**은 [여기](https://youtu.be/81YjWzQoBRk)에서 보실 수 있습니다.
-- 아래 내용은 프로젝트에 대한 요약 소개 버전으로, 좀더 상세한 프로젝트 진행 내용은 [노션 페이지](https://inhwan-hwang.notion.site/Transformer-c9f48d8ca85c401d8324fa872fae7938)에서 읽으실 수 있습니다.
+- 아래 내용은 프로젝트에 대한 요약 소개 버전으로, 좀 더 상세한 프로젝트 진행 내용은 [노션 페이지](https://inhwan-hwang.notion.site/Transformer-c9f48d8ca85c401d8324fa872fae7938)에서 읽으실 수 있습니다.
 
 ---
 
